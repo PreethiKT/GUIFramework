@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="6" total="7" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-04T09:55:33Z" name="Default suite" finished-at="2024-06-04T09:57:26Z" duration-ms="112498">
+    <groups>
+    </groups>
+    <test started-at="2024-06-04T09:55:33Z" name="Default test" finished-at="2024-06-04T09:57:26Z" duration-ms="112498">
+      <class name="com.HMS.LifeLink.PatientTest">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:com.HMS.LifeLink.PatientTest@2b76ff4e]" started-at="2024-06-04T09:55:33Z" name="configBS" finished-at="2024-06-04T09:55:33Z" duration-ms="57" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.HMS.LifeLink.PatientTest@2b76ff4e]" started-at="2024-06-04T09:55:33Z" name="configBC" finished-at="2024-06-04T09:55:37Z" duration-ms="3532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method signature="Patient_Test()[pri:0, instance:com.HMS.LifeLink.PatientTest@2b76ff4e]" started-at="2024-06-04T09:55:37Z" name="Patient_Test" finished-at="2024-06-04T09:57:26Z" duration-ms="108908" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Patient_Test -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.HMS.LifeLink.PatientTest@2b76ff4e]" started-at="2024-06-04T09:57:26Z" name="configAM" finished-at="2024-06-04T09:57:26Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAS()[pri:0, instance:com.HMS.LifeLink.PatientTest@2b76ff4e]" started-at="2024-06-04T09:57:26Z" name="configAS" finished-at="2024-06-04T09:57:26Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- com.HMS.LifeLink.PatientTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
